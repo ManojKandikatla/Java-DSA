@@ -1,3 +1,9 @@
+/*Array objects are stored in heap
+ * heap objects are not continous
+ * arrays uses dynamic memory allocation(memory is stored while runtime)
+ */
+
+
 public class Arrays{
     public static void main(String[]args){
         int arr[] = {1,3,5,67,8,9,1,4,61,4,7,2,3,4,5,6,91,1,1};
