@@ -22,6 +22,7 @@ public class Reverse{
             start++;
             end--;
         }
+        System.out.println(arr);
     }
     static void swap(int[] arr, int i, int j) {
         int temp = arr[i];
