@@ -1,0 +1,18 @@
+{
+  "java.project.sourcePaths": [
+    "TimeComplexity",
+    "Strings",
+    "Sorting",
+    "SlidingWindow",
+    "Queue",
+    "PROBLEMS",
+    "Hashmap",
+    "HashSet",
+    "Functions",
+    "Binary Search",
+    "Arrays",
+    "ArrayList",
+    "Stack"
+  ],
+  "java.project.referencedLibraries": []
+}
