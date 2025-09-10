@@ -2,6 +2,7 @@
   "java.project.sourcePaths": [
     "TimeComplexity",
     "Strings",
+    "Stack",
     "Sorting",
     "SlidingWindow",
     "Queue",
@@ -12,7 +13,7 @@
     "Binary Search",
     "Arrays",
     "ArrayList",
-    "Stack"
+    "Recursion"
   ],
   "java.project.referencedLibraries": []
 }
