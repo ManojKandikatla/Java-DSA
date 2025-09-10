@@ -1,3 +1,4 @@
+//it is known as navi recursion
 public class FibonacciNumbers {
     public static void main(String[] args) {
         int ans = fibo(4);
@@ -28,3 +29,6 @@ public class FibonacciNumbers {
 //2.identify & focues on left tree calls and write tree calls
 //3. see how the values are returend at each step
 //4.see where the funtion  call is comming  out, in the end you will come out of the main function 
+
+// time complexity O(2^n)
+//space compleity O(n)
